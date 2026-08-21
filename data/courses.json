@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ibm-python-basics",
+    "title": "Python for Data Science, AI & Development",
+    "platform": "IBM SkillsBuild / Coursera",
+    "skills_addressed": ["Python", "Coding", "Programming"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Learn python programming basics, control structures, list manipulations, and functions.",
+    "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai"
+  },
+  {
+    "id": "ibm-cybersecurity-foundations",
+    "title": "Introduction to Cybersecurity Tools & Cyber Attacks",
+    "platform": "IBM SkillsBuild / Coursera",
+    "skills_addressed": ["Cybersecurity", "Network Security"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "An introduction to foundational cybersecurity concepts, tools, and defensive strategies.",
+    "url": "https://skillsbuild.org/students/career-paths/cybersecurity"
+  },
+  {
+    "id": "ibm-data-analyst-basics",
+    "title": "Introduction to Data Analytics",
+    "platform": "IBM SkillsBuild / Coursera",
+    "skills_addressed": ["Data Analysis", "Excel", "Data Visualization"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Understanding data analytics processes, types of data, and working with Excel spreadsheet basics.",
+    "url": "https://skillsbuild.org/students/career-paths/data-analyst"
+  },
+  {
+    "id": "khan-pre-algebra",
+    "title": "Pre-Algebra & Arithmetic Foundations",
+    "platform": "Khan Academy",
+    "skills_addressed": ["Basic Math", "Pre-Algebra", "Mathematics"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Learn core arithmetic, fractions, decimals, negative numbers, and foundations of algebraic representation.",
+    "url": "https://www.khanacademy.org/math/pre-algebra"
+  },
+  {
+    "id": "khan-algebra-1",
+    "title": "Algebra 1 (Equations and Functions)",
+    "platform": "Khan Academy",
+    "skills_addressed": ["Algebra", "Mathematics"],
+    "difficulty": "Beginner",
+    "prerequisites": ["Basic Math"],
+    "description": "Explore linear equations, functions, inequalities, graphs, and system of equations.",
+    "url": "https://www.khanacademy.org/math/algebra"
+  },
+  {
+    "id": "khan-statistics-basics",
+    "title": "High School Statistics & Basic Probability",
+    "platform": "Khan Academy",
+    "skills_addressed": ["Statistics", "Mathematics", "Probability"],
+    "difficulty": "Beginner",
+    "prerequisites": ["Algebra"],
+    "description": "Learn key statistics tools: mean, median, standard deviation, scatterplots, and simple probability.",
+    "url": "https://www.khanacademy.org/math/probability"
+  },
+  {
+    "id": "coursera-sql-basics",
+    "title": "SQL for Data Science",
+    "platform": "Coursera (UC Davis)",
+    "skills_addressed": ["SQL", "Databases", "Data Analysis"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Learn fundamentals of SQL querying, filtering, sorting, joins, and aggregates.",
+    "url": "https://www.coursera.org/learn/sql-for-data-science"
+  },
+  {
+    "id": "coursera-google-data-analytics",
+    "title": "Google Data Analytics Professional Certificate (Excel & SQL)",
+    "platform": "Coursera (Google)",
+    "skills_addressed": ["Data Analysis", "SQL", "Excel", "Data Visualization"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "A comprehensive entry-level introduction to calculations, data cleaning, queries, and Tableau visualizations.",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+  },
+  {
+    "id": "edx-intro-computer-science",
+    "title": "CS50: Introduction to Computer Science",
+    "platform": "edX (Harvard)",
+    "skills_addressed": ["Coding", "Programming", "Computer Science"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "A world-renowned introduction to computer science logic, algorithms, languages (C, Python, SQL), and data structures.",
+    "url": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x"
+  },
+  {
+    "id": "edx-advanced-machine-learning",
+    "title": "Machine Learning and Deep Learning Foundations",
+    "platform": "edX (MIT)",
+    "skills_addressed": ["Machine Learning", "Artificial Intelligence", "Deep Learning"],
+    "difficulty": "Advanced",
+    "prerequisites": ["Python", "Calculus", "Linear Algebra", "Statistics"],
+    "description": "Explore heavy statistical machine learning formulations, neural networks, loss functions, and backpropagation.",
+    "url": "https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning"
+  },
+  {
+    "id": "coursera-deeplearning-ai-specialization",
+    "title": "Deep Learning Specialization",
+    "platform": "Coursera (DeepLearning.AI)",
+    "skills_addressed": ["Machine Learning", "Artificial Intelligence", "Neural Networks"],
+    "difficulty": "Advanced",
+    "prerequisites": ["Python", "Linear Algebra", "Calculus"],
+    "description": "Build and train neural networks, structure machine learning projects, and understand modern deep learning architectures.",
+    "url": "https://www.coursera.org/specializations/deep-learning"
+  },
+  {
+    "id": "khan-linear-algebra",
+    "title": "Linear Algebra (Vectors, Matrices, Spaces)",
+    "platform": "Khan Academy",
+    "skills_addressed": ["Linear Algebra", "Mathematics"],
+    "difficulty": "Intermediate",
+    "prerequisites": ["Algebra"],
+    "description": "Master vectors, matrix transformations, eigenvalues, and vectors spaces necessary for advanced data science.",
+    "url": "https://www.khanacademy.org/math/linear-algebra"
+  },
+  {
+    "id": "khan-calculus-1",
+    "title": "Calculus 1 (Limits, Derivatives, Integrals)",
+    "platform": "Khan Academy",
+    "skills_addressed": ["Calculus", "Mathematics"],
+    "difficulty": "Intermediate",
+    "prerequisites": ["Algebra"],
+    "description": "Learn limits, derivative rules, optimization problems, integrals, and applications to analytical modeling.",
+    "url": "https://www.khanacademy.org/math/calculus-1"
+  },
+  {
+    "id": "coursera-meta-front-end",
+    "title": "Meta Front-End Developer Professional Certificate",
+    "platform": "Coursera (Meta)",
+    "skills_addressed": ["Web Development", "HTML", "CSS", "Javascript", "React"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Create responsive websites using HTML, CSS, JavaScript, and React framework. Learn UI/UX workflows.",
+    "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+  },
+  {
+    "id": "coursera-meta-back-end",
+    "title": "Meta Back-End Developer Professional Certificate",
+    "platform": "Coursera (Meta)",
+    "skills_addressed": ["Web Development", "Python", "SQL", "APIs"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Build servers, database setups, REST APIs, and authentication modules using Python and Django.",
+    "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer"
+  },
+  {
+    "id": "coursera-digital-marketing-google",
+    "title": "Google Digital Marketing & E-commerce Certificate",
+    "platform": "Coursera (Google)",
+    "skills_addressed": ["Digital Marketing", "SEO", "E-commerce"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Learn digital marketing fundamentals, SEO tactics, email campaigns, online store management, and analytics.",
+    "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+  },
+  {
+    "id": "ibm-cloud-foundations",
+    "title": "Introduction to Cloud Computing",
+    "platform": "IBM SkillsBuild / Coursera",
+    "skills_addressed": ["Cloud Computing", "AWS", "IBM Cloud", "DevOps"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "Learn foundational concepts of hosting, VMs, cloud storage, containers, hybrid vs. public models.",
+    "url": "https://skillsbuild.org/students/career-paths/cloud-computing"
+  },
+  {
+    "id": "coursera-product-management-uva",
+    "title": "Digital Product Management Specialization",
+    "platform": "Coursera (University of Virginia)",
+    "skills_addressed": ["Product Management", "Agile", "UX Design"],
+    "difficulty": "Beginner",
+    "prerequisites": [],
+    "description": "How to manage digital products, define scopes, design using Agile processes, and test product market fit.",
+    "url": "https://www.coursera.org/specializations/digital-product-management"
+  }
+]

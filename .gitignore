@@ -1,0 +1,33 @@
+# ─── Streamlit Secrets (NEVER commit) ───────────────────────────
+.streamlit/secrets.toml
+
+# ─── Python cache ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Environment / secrets files ────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ─── Virtual environments ────────────────────────────────────────
+venv/
+.venv/
+env/
+Env/
+
+# ─── IDE / OS files ─────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ─── Jupyter / notebooks ────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
