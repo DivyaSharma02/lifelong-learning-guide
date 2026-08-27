@@ -75,11 +75,3 @@ PROJECT/
     ├── secrets.toml         # ⛔ Local only — gitignored
     └── secrets.toml.example # ✅ Safe template to commit
 ```
-
----
-
-## 🔒 Security
-
-- `secrets.toml` is listed in `.gitignore` and will **never** be committed.
-- Use the `.streamlit/secrets.toml.example` file as the template for collaborators.
-- On Streamlit Cloud, inject secrets via the **Secrets** panel — never hardcode keys.
